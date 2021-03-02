@@ -1,6 +1,7 @@
 import argparse
 import os
 import torch.backends.cudnn as cudnn
+import torch
 import models
 import torchvision.transforms as transforms
 import flow_transforms
